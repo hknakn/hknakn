@@ -1,36 +1,43 @@
-<h1 align="center">Hi 👋, I'm Hakan</h1>
-<h3 align="center">A passionate Senior React Native developer from Istanbul, Turkey 🇹🇷</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hknakn&label=Profile%20views&color=0e75b6&style=flat" alt="hknakn" /> </p>
+# Hi 👋, I'm Hakan
 
-- 💬 Ask me about **React Native, TypeScript, JavaScript and Mobile Development**
+#### Senior React Native Developer from Istanbul, Turkey 🇹🇷
 
-- 📫 How to reach me **cehakanakin@gmail.com**
+I craft high-impact mobile experiences that reach millions of users globally. With 7 years of expertise in React Native and TypeScript, I specialize in building scalable mobile solutions that delight users and solve real problems.
 
-<br></br>
+[Email](mailto:cehakanakin@gmail.com) • [LinkedIn](https://www.linkedin.com/in/cehakanakin/) • [Twitter](https://twitter.com/cehakanakin) • [Stack Overflow](https://stackoverflow.com/users/10491819/hakan-ak%c4%b1n)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
-  
-<br></br>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hknakn&show_icons=true&locale=en&layout=compact" alt="hknakn" /></p>
+</div>
 
-<br></br>
-<br></br>
-<br></br>
-<br></br>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hknakn&show_icons=true&locale=en" alt="hknakn" /></p>
-<br></br>
+### What I Do Best
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hknakn&" alt="hknakn" /></p>
+- 🚀 Build AI-powered travel apps and secure document management solutions
+- 📱 Develop scalable mobile applications with React Native and TypeScript
+- 🛠 Create seamless cross-platform experiences
+- 👥 Collaborate with global teams to deliver impactful solutions
 
-<br></br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cehakanakin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cehakanakin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/cehakanakin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cehakanakin/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/10491819/hakan-ak%c4%b1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10491819/hakan-ak%c4%b1n" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/hakanakaakin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hakanakaakin/" height="30" width="40" /></a>
-</p>
+### Tech Stack
+
+```
+Core: React Native • TypeScript • JavaScript • React
+Frontend Development: Tailwind • Redux • RTK Query • Zustand • GraphQL
+Tools: Git • Firebase • Supabase • Figma
+```
+
+### GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hknakn&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=hknakn&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000"/>
+</div>
+
+---
+
+<div align="center">
+
+*Let's build something amazing together!*
+
+</div>
