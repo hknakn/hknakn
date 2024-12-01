@@ -40,6 +40,4 @@ Tools: Git • Firebase • Supabase • Figma
 </div>
 
 ---
-<div align="center">
  *Let's build something amazing together!*
-</div>
