@@ -41,5 +41,5 @@ Tools: Git • Firebase • Supabase • Figma
 
 ---
 <div align="center">
-*Let's build something amazing together!*
+ *Let's build something amazing together!*
 </div>
